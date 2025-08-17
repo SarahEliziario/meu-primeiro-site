@@ -10,12 +10,13 @@
     <p > Esta pesquisa tem como objetivo apresentar os conceitos básicos de HTML e CSS, linguagens fundamentais para a criação e o estilo de páginas na web.</p>
     <img src="https://img.freepik.com/fotos-gratis/colagem-de-fundo-de-programacao_23-2149901782.jpg" style="display: block; margin: 0 auto; width: 600px; height: auto;" >
 
-    <h2>Explorar Tópicos </h2>
-    <p>
-    <ul>
-  <li><a href="#html" style="color:rgb(28, 49, 65);""> O que é HTML</a></li>
-  <li><a href="#css" style="color:rgb(28, 49, 65);""> O que é CSS</a></li>
-  <li><a href="#exemplos" style="color:rgb(28, 49, 65);"> Exemplos de Código</a></li>
+
+  <h2> Explore os tópicos </h2>
+  <p>
+   <ul>
+  <li> <a href="html"> O que é HTML</a></li>
+  <li> <a href="css"> O que é CSS</a></li>
+  <li> <a href="exemplos"> Exemplos de Código</a></li>
 </ul>
 </p>
  <hr>
